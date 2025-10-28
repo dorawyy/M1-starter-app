@@ -1,0 +1,3 @@
+---
+exclude_paths:
+  - "frontend/app/src/main/java/com/cpen321/usermanagement/utils/**"
